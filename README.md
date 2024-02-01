@@ -18,7 +18,7 @@ Dica: Usar o [FusionChats](https://www.fusioncharts.com/charts/column-bar-charts
 - O código será avaliado seguindo os seguintes critérios: 
   - Manutenabilidade;
   - Clareza e limpeza de código;
-  - Resultado funcional; 
+  - Resultado funcional;
 - O histórico no git também será avaliado;
 
 
